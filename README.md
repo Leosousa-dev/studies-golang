@@ -1,3 +1,4 @@
+![golang](go.png)
 # **Repositório de Estudos de Algoritmos em Go.**
 
 👋 Bem-vindo ao meu repositório de estudos de algoritmos em Go! Este projeto foi criado com o objetivo de armazenar meus arquivos de estudo enquanto aprofundo meus conhecimentos em Go e algoritmos.
